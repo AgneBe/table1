@@ -10,15 +10,12 @@ table {
 }
 thead {
     background: rgb(240, 200, 19);
-    text-align: center;
-   
+    text-align: center; 
 }
 th, td {
     border: 2px solid rgb(240, 200, 19);
-    padding: 2rem;
-    
+    padding: 2rem;  
 }
-
 tbody {
     background: rgb(88, 48, 184);
     color: white;
